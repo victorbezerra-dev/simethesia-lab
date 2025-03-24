@@ -12,7 +12,7 @@ The **Simethesia** ecosystem is divided into three complementary repositories:
 |------------|-------------|
 | [`simethesia-simulator`](https://github.com/victorbezerra-dev/simethesia-simulator) | Real-time patient simulation using PK/PD models (Arduino-based). |
 | [`simethesia-controller`](https://github.com/victorbezerra-dev/simethesia-controller-pi) | Control algorithms (PID, LQR, MPC, etc.) for regulating anesthesia depth |
-| [`simethesia-app`](https://github.com/simethesia/simethesia-app) | Mobile application to configure patient data, manage simulations, and visualize results |
+| [`simethesia-app`](https://github.com/victorbezerra-dev/simethesia-app) | Mobile application to configure patient data, manage simulations, and visualize results |
 
 ## ⚙️ How It Works
 
